@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "705529108043",
+    "project_id": "deshi-deals",
+    "storage_bucket": "deshi-deals.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705529108043:android:c4973a44c6f562c7cddfce",
+        "android_client_info": {
+          "package_name": "com.musficaappdev.deshideals"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANorYwjZp_nouovgXZQTxMw33TWlo2JoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
