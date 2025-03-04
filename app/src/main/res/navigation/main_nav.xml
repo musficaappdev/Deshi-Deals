@@ -12,7 +12,7 @@
         tools:layout="@layout/fragment_start" >
 
         <action
-            android:id="@+id/action_startFragment_to_loginFragment2"
+            android:id="@+id/action_startFragment_to_loginFragment"
             app:destination="@id/loginFragment" />
         <action
             android:id="@+id/action_startFragment_to_registerFragment"
